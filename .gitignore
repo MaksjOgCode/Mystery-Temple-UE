@@ -1,0 +1,12 @@
+# Временные файлы Unreal Engine
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# Временные файлы среды разработки
+/.vs/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
